@@ -1,0 +1,407 @@
+body {
+  font-family: museo sans, helvetica, sans serif;
+  font-weight: 300;
+  margin: 0px;
+}
+
+/* SECTIONS */
+
+h1, h2 {
+  padding: 0;
+}
+
+h1 {
+  font-size: 18pt;
+  font-weight: 300;
+  color: #655649;
+}
+
+h2, h3 {
+  font-size: 16pt;
+  font-weight: 500;
+  color: #655649;
+}
+
+/* h3 {
+  font-size: 14pt;
+  font-weight: 300;
+  color: #A39A92;
+}*/
+
+h4 {
+  font-size: 18pt;
+  font-weight: 300;
+  color: #A39A92;
+}
+
+h5 {
+  margin-top: -0.6em;
+  font-size: 12pt;
+  font-weight: 500;
+  color: #A39A92;
+}
+
+h6 {
+  font-size: 16pt;
+  font-weight: 300;
+  color: #A39A92;
+}
+
+/* TITLE */
+
+#nav {
+  margin-top: -20px;
+  height: 80px;
+  width: 100%;
+  background-color: #3F2C1C;
+}
+
+#nav a {
+  color: #ffffff;
+  font-weight: 300;
+}
+
+#navcontainer {
+  max-width: 980px;
+  padding-right: 50px;
+  padding-left: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 980px;
+}
+
+#logo {
+  width: 200px;
+  padding-top: 10px;
+  padding-left: 35px;
+  margin-bottom: -72px;
+}
+
+#menu {
+  text-align: right;
+  padding-top: 0px;
+}
+
+#menu li {
+  vertical-align: center;
+  font-size: 20px;
+  color: #ffffff;
+  display: inline;
+  padding-left: 25px;
+}
+
+#herocontainer {
+  background-image: url('aloe1.jpg');
+  background-repeat: no-repeat;
+  background-position: center left;
+  float: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  height: 300px;
+  border-top: 2px solid #A39A92;
+}
+
+#gradientcontainer {
+  margin-top: -50px;
+  margin-right: auto;
+  height: 400px;
+  background-image: url('gradient.png');
+  background-repeat: repeat-y;
+  background-position: right;
+}
+
+#herocontent {
+  padding-top: 50px;
+  padding-left: 50%;
+  max-width: 490px;
+}
+
+.stripe {
+  border-top: 3px solid #3F2C1C;
+  height: 2px;
+  border-bottom: 2px solid #A39A92;
+}
+
+/* FOOTER */
+
+#footer {
+  clear: both;
+  height: 150px;
+  width: 100%;
+  background-color: #3F2C1C;
+  border-top: 2px solid #A39A92;
+  margin-top: 3em;
+}
+
+#footercontent {
+  text-align: center;
+  padding-left: 20px;
+  padding-top: 2px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 940px;
+}
+
+#footer a {
+  font-weight: 300;
+  color: #A39A92;
+}
+
+/* BODY */
+
+div {
+  padding: 0 0 0 0;
+  margin: 0 0 0 0;
+}
+
+p, li {
+  color: #A39A92;
+}
+
+ul {
+  padding-left: 1.2em;
+}
+
+a {
+  color: #598144;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.content-body {
+  font-weight: 300;
+  text-align: justify;
+  line-height: 1.25;
+  font-size: 14pt;
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hide;
+  padding-top: 10px;
+}
+
+.WhatWeUse h2 {
+  padding-top: 1em !important;
+}
+
+.right {
+  text-align: right;
+}
+
+.clear {
+  clear: both;
+}
+
+.Home .quarters .quarter p a,
+.Events .halves .half p a,
+.arrow {
+  background: url('linkarrow.png') center right no-repeat;
+  padding-right: 15px;
+}
+
+.Events .Photos {
+  padding-top: 1em;
+}
+
+div.img {
+  padding-top: 1em;
+  padding-bottom: 2em;
+  text-align: center;
+}
+
+.halves, .thirds, .quarters {
+  clear: both;
+}
+
+.thirds > h1 {
+  margin-bottom: -0.3em;
+}
+
+.half {
+  width: 44%;
+  min-width: 200px;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-top: 0%;
+  padding-bottom: 0%;
+  float: left;
+  text-align: left;
+}
+
+.third {
+  width: 29%;
+  min-width: 160px;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-top: 0%;
+  padding-bottom: 0%;
+  float: left;
+  text-align: left;
+}
+
+.quarter {
+  width: 21%;
+  min-width: 120px;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-top: 0%;
+  padding-bottom: 0%;
+  float: left;
+  text-align: left;
+}
+
+.half.img, .third.img, .quarter.img {
+  text-align: center;
+}
+
+
+.full,
+.content-body > h1,
+.content-body > h2,
+.content-body > h3,
+.content-body > p {
+  clear: both;
+  width: 96%;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-top: 0%;
+}
+
+
+@media screen and (max-width: 750px) {
+
+  #nav {
+    margin-top: -20px;
+    height: 120px;
+    width: 100%;
+    background-color: #3F2C1C;
+  }
+
+  #navcontainer {
+    max-width: 100%;
+    padding-right: 4%;
+    padding-left: 4%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 980px;
+  }
+
+  #logo {
+    width: 200px;
+    float: center;
+    padding-top: 10px;
+    padding-left: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -72px;
+  }
+
+  #menu {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+  }
+
+  #menu li {
+    vertical-align: center;
+    font-size: 20px;
+    color: #ffffff;
+    display: inline;
+    padding-right: 25px;
+
+  }
+
+  #herocontainer {
+    background-image: url('aloe1.jpg');
+    background-repeat: no-repeat;
+    background-position: center left;
+    background-size: 2000px 400px;
+    float: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    height: 300px;
+    border-top: 2px solid #A39A92;
+  }
+
+  #herocontainer .image {
+    width: 100%;
+    height: 100%;
+  }
+
+  #gradientcontainer {
+    margin-top: -50px;
+    margin-right: auto;
+    height: 400px;
+    background-image: url('gradient.png');
+    background-repeat: repeat-y;
+    background-position: right;
+  }
+
+  #herocontent {
+    padding-top: 50px;
+    padding-left: 4%;
+    max-width: 90%;
+  }
+
+  .half {
+    width: 90%;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    text-align: justify;
+  }
+
+  .half h2 {
+    text-align: left;
+  }
+
+  #news {
+
+  }
+
+  .quarter {
+    width: 40%;
+    padding: 4%;
+    float: left;
+    text-align: left;
+  }
+
+  .events {
+    clear: both;
+    padding-top: 30px;
+    }
+
+  .event {
+    clear: both;
+    padding-bottom: 0px;
+  }
+
+  .event img {
+    width: 100%;
+    max-width: 500px;
+    float: left;
+    margin-right: 0em;
+    margin-bottom: 0em;
+    padding-top: 0em;
+  }
+
+  .text-events {
+    padding: 0px;
+  }
+}
+
+
+@media screen and (max-width: 420px) {
+
+  .quarter {
+    width: 90%;
+    padding: 4%;
+    float: left;
+    text-align: left;
+  }
+
+}
+
+

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://nagomi.ca/</loc>
+  <lastmod>2013-08-17T22:11:26+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://nagomi.ca/contact</loc>
+  <lastmod>2013-08-17T19:54:46+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://nagomi.ca/about</loc>
+  <lastmod>2013-08-17T22:07:16+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://nagomi.ca/overview</loc>
+  <lastmod>2013-08-17T21:21:10+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://nagomi.ca/services</loc>
+  <lastmod>2013-08-17T21:20:12+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://nagomi.ca/events</loc>
+  <lastmod>2013-08-17T21:13:42+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://nagomi.ca/what-we-use</loc>
+  <lastmod>2013-08-17T21:10:48+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+</urlset>
