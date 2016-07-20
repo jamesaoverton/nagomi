@@ -3,7 +3,7 @@ layout: default
 ---
 <div>
 
-# Book your facial with us today!
+<h1 class="section-header">Book your facial with us today!</h1>
 
 Our reasonable prices are inspired by you, hard working women who put themselves last and deserve to treat themselves. We have early morning and evening appointments available to make things easier.
 
@@ -11,7 +11,7 @@ Our reasonable prices are inspired by you, hard working women who put themselves
   </div>
 
 <div class="thirds">
-# Facial
+<h1 class="section-header">Facial</h1>
   <div class="third block1of3">
 ## Simplicity Facial
 
@@ -42,7 +42,7 @@ Enjoy all the benefits of our standard facial with a little more extravagance. C
 </div>
 
 <div class="thirds">
-# Body
+  <h1 class="section-header">Body</h1>
 <div class="third block1of3">
 ## Swedish Massage
 
@@ -63,7 +63,7 @@ Enjoy all the benefits of our standard facial with a little more extravagance. C
 </div>
 
 <div>
-# RMT
+<h1 class="section-header">RMT</h1>
 
 We offer a unique blend of Massage and Manual Therapy including Swedish, Shiatsu and Thai massage.
 
@@ -71,7 +71,7 @@ Massage with Registered Massage Therapist: $85 (60 min), $120 (90 min), $160 (12
 </div>
 <div class="thirds">
 
-# Acupuncture & Herbal Medicine
+<h1 class="section-header">Acupuncture & Herbal Medicine</h1>
 <div class="third block1of3">
 
 ## Acupuncture
@@ -108,7 +108,7 @@ Massage with Registered Massage Therapist: $85 (60 min), $120 (90 min), $160 (12
 </div>
 
 <div class="halves">
-# Nail
+<h1 class="section-header">Nail</h1>
 <div class="half block1of2">
 ## Nail Services
 
@@ -129,7 +129,7 @@ Massage with Registered Massage Therapist: $85 (60 min), $120 (90 min), $160 (12
 </div>
 </div>
 <div class="halves">
-# Eyelashes
+<h1 class="section-header">Eyelashes</h1>
 
 <div class="half block1of2">
 ## Eyelash Extensions
@@ -160,7 +160,7 @@ Massage with Registered Massage Therapist: $85 (60 min), $120 (90 min), $160 (12
 </div>
 </div>
 <div class="thirds">
-# Waxing
+<h1 class="section-header">Waxing</h1>
 <div class="third block1of3">
 ## Body
 
@@ -216,7 +216,7 @@ Massage with Registered Massage Therapist: $85 (60 min), $120 (90 min), $160 (12
 </div>
 </div>
 <div>
-# Something extra-special coming up? [Ask us about our make-up services!](mailto:info@nagomi.ca)
+<h1 class="section-header">Something extra-special coming up? <a href="mailto:info@nagomi.ca">Ask us about our make-up services</a>!</h1>
 
 All services are by appointment only. Gifts certificates available. We now accept debit and credit.
 </div>
