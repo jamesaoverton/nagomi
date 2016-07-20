@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Contact Us | Nagomi.ca
 ---
 
 # Infuse your skin with the healing powers of Japan’s organic Aloe Vera treatments.
@@ -23,4 +24,3 @@ Driving: Take the South Kingsway exit from the Gardiner Expressway. Travel North
 Questions? Please [email us](mailto:info@nagomi.ca). Or give us a call at (647) 993-1130
 
 For online booking please [click.](mailto:info@nagomi.ca)
-

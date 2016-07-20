@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Services | Nagomi.ca
 ---
 <div>
 
@@ -115,17 +116,15 @@ Massage with Registered Massage Therapist: $85 (60 min), $120 (90 min), $160 (12
 * Spa Manicure $25
 * French $5+
 * Kids' Nail (with sticker) $10
-
 </div>
+
 <div class="half block2of2">
 ## Gel Nail Services
 
-<div class="half block2of2">
 * Simple (one colour, French) $50
 * Design (art, stones) $50+
 * Full Design $80+
 * Removal $30
-
 </div>
 </div>
 <div class="halves">

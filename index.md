@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Beauty Salon Toronto | Nagomi.ca
 ---
 
 <div class="half">
@@ -106,4 +107,3 @@ Enjoy the benefits of Aloe Vera treatments in the comfort of your home with thes
 
 Coming Soon!
 </div>
-

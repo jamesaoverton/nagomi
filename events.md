@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Events | Nagomi.ca
 ---
 
 # July Events
@@ -48,4 +49,3 @@ Join us for an exciting array of events and classes. Upcoming subjects include:
 # SECTION
 
 [See more on our Facebook page!](https://www.facebook.com/nagomibeautyroom/events)
-

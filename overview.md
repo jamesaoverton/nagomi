@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Overview | Nagomi.ca
 ---
 
 ## About Nagomi
@@ -70,4 +71,3 @@ nagomi では、皆様に役立つ情報を提供できたらと、美と健康�
 
 [これまでのワークショップ、イベントの様子はFacebook
 pageでご覧下さい。](http://www.facebook.com/nagomibeautyroom)
-
