@@ -4,17 +4,14 @@ title: Beauty Salon Toronto | Nagomi.ca
 ---
 
 <div class="half">
-## **July Promotions**
+### Our November facial special is on now! 
 
-### Deluxe Facial Treatment 20% OFF!!!!
+Our Deluxe Facial is 15% off!! and if you purchase our gift certificate for Deluxe Facial in November for the holidays you get 15% off as well!!
 
-Summer is finally here, and with that glorious sunshine comes some not-so-sunny skin issues. Sun-burnt? Dry? Oily?
+Deluxe Facial. This particular treatment uses a special essence with concentrated Aloe powder, collagen, and hyaluronic acid, which is known to enhance and repair skin.
+Come get freshened up before you get busy for the holidays and get yourself ready for the party season!!
 
-Deluxe Facial. This particular treatment uses a special essence with concentrated Aloe powder which includes three types of hyaluronic acid, vitamin C derivatives, coenzyme Q10 and ceramide, known to enhance and repair skin.
-
-This treatment/essence blocks UV, dryness, and other environmental factors and lets your skin radiate beauty from the inside out!!
-
-### Thai massage therapy 60 mins $65!!! 90mins $90!! With RMT
+### Now offering Thai massage therapy and herb ball therapy With RMT
 
 This type of massage has been around for more than two thousand years to promote physical and mental relaxation through the use of practitioner assisted Yoga positions.
 
@@ -25,10 +22,6 @@ The benefits of Thai massage therapy are:
 - Relaxation
 - Improved Circulation
 - Overall Well-Being
-
-### RMT massage treatment available!!
-
-We offer a unique blend of Massage and Manual Therapy including Swedish, Shiatsu and Thai massage.
 </div>
 
 
@@ -81,7 +74,7 @@ Our reasonable prices are inspired by you, hard working women who put themselves
 <div class="quarter">
 ## Events
 
-![Toronto beauty salon](photos/makeup1.jpg)
+![Toronto beauty salon](photos/event5-small.jpg)
 
 From cooking classes to makeup tutorials, find out what exciting new events are coming up at Nagomi.
 

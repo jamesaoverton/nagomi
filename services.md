@@ -2,18 +2,17 @@
 layout: default
 title: Services | Nagomi.ca
 ---
-<div>
 
-<h1 class="section-header">Book your facial with us today!</h1>
+# Book your facial with us today!
 
 Our reasonable prices are inspired by you, hard working women who put themselves last and deserve to treat themselves. We have early morning and evening appointments available to make things easier.
 
 [Email us to book your appointment today!](mailto:info@nagomi.ca)
-  </div>
 
-<div class="thirds">
-<h1 class="section-header">Facial</h1>
-  <div class="third block1of3">
+
+# Facial
+
+<div class="third">
 ## Simplicity Facial
 
 40min, $40
@@ -23,7 +22,7 @@ A treatment for people on the go that doesn’t skimp on luxury. This facial cov
 **Simplicity Facial + Body, 90min, $95**
 </div>
 
-<div class="third block2of3">
+<div class="third">
 ## Signature Facial
 
 75min, $60
@@ -33,48 +32,48 @@ Lose yourself in our signature treatment, a restorative Aloe Vera masque designe
 **Signature Facial + Body, 120min, $110**
 </div>
 
-<div class="third block3of3">
+<div class="third">
 ## Deluxe Facial
 
 90min, $85
 
 Enjoy all the benefits of our standard facial with a little more extravagance. Combine our restorative masque treatment and cleansing with the added bonus of deep scalp, shoulder and décolletage massage.
 </div>
-</div>
 
-<div class="thirds">
-  <h1 class="section-header">Body</h1>
-<div class="third block1of3">
+
+# Body
+
+<div class="third">
 ## Swedish Massage
 
 * 60min, $60
 * 90min, $85
 </div>
-<div class="third block2of3">
+
+<div class="third">
 ## Prenatal (after 20 weeks)
 
 * Prenatal Massage 45min $90
 </div>
-<div class="third block3of3">
+
+<div class="third">
 ## Tuina Massage
 
 * 30 minutes $40
 * 60 minutes $75
 </div>
-</div>
 
-<div>
-<h1 class="section-header">RMT</h1>
+
+# RMT
 
 We offer a unique blend of Massage and Manual Therapy including Swedish, Shiatsu and Thai massage.
 
 Massage with Registered Massage Therapist: $85 (60 min), $120 (90 min), $160 (120 min)
-</div>
-<div class="thirds">
 
-<h1 class="section-header">Acupuncture & Herbal Medicine</h1>
-<div class="third block1of3">
 
+# Acupuncture & Herbal Medicine
+
+<div class="third">
 ## Acupuncture
 
 * Initial Consultation and Diagnosis	$40 / 45 ~ 60 min
@@ -83,7 +82,8 @@ Massage with Registered Massage Therapist: $85 (60 min), $120 (90 min), $160 (12
 * Prenatal Acupuncture & Moxibustion (after 20 weeks)
 
 </div>
-<div class="third block2of3">
+
+<div class="third">
 ## Cosmetic Acupuncture
 
 * Initial Consultation and Diagnosis	$40 / 30 ~ 45 min
@@ -92,7 +92,8 @@ Massage with Registered Massage Therapist: $85 (60 min), $120 (90 min), $160 (12
 [Contact for details](mailto:info@nagomi.ca)
 
 </div>
-<div class="third block3of3">
+
+<div class="third">
 ## Chinese Herbal Medicine
 
 * Initial Consultation and Diagnosis	$40 / 45 ~ 60 min
@@ -100,17 +101,17 @@ Massage with Registered Massage Therapist: $85 (60 min), $120 (90 min), $160 (12
 * Herbal Medicine Cost			$15 ~ 40 / week (varies by ingredients)
 
 </div>
-</div>
 
-<div class="full">
-<div class="img block1of1">
+<div class="clear"></div>
+
+<div class="img">
 ![acupuncture](photos/acupuncture1.jpg)
 </div>
-</div>
 
-<div class="halves">
-<h1 class="section-header">Nail</h1>
-<div class="half block1of2">
+
+# Nail
+
+<div class="half">
 ## Nail Services
 
 * Spa Manicure $25
@@ -118,7 +119,7 @@ Massage with Registered Massage Therapist: $85 (60 min), $120 (90 min), $160 (12
 * Kids' Nail (with sticker) $10
 </div>
 
-<div class="half block2of2">
+<div class="half">
 ## Gel Nail Services
 
 * Simple (one colour, French) $50
@@ -126,19 +127,19 @@ Massage with Registered Massage Therapist: $85 (60 min), $120 (90 min), $160 (12
 * Full Design $80+
 * Removal $30
 </div>
-</div>
-<div class="halves">
-<h1 class="section-header">Eyelashes</h1>
 
-<div class="half block1of2">
+
+# Eyelashes
+
+<div class="half">
 ## Eyelash Extensions
 
 * Natural (60~80 Lashes) $65
 * Glamorous (80~100 Lashes) $85
 * Diva (over 100 Lashes) $120
-
 </div>
-<div class="half block2of2">
+
+<div class="half">
 ## Touch up
 
 * Before 2 weeks $35
@@ -146,21 +147,22 @@ Massage with Registered Massage Therapist: $85 (60 min), $120 (90 min), $160 (12
 * Before 4 weeks $65
 * After 4 weeks $85
 * Only removal $30
+</div>
 
-</div>
-</div>
-<div class="halves">
-<div class="img half block1of2">
+<div class="clear"></div>
+
+<div class="img half">
 ![eyelashextensions](photos/eyelashextension.jpg)
 </div>
-<div class="img half block2of2">
-![eyelashextensions](photos/eyelashextension1.jpg)
 
+<div class="img half">
+![eyelashextensions](photos/eyelashextension1.jpg)
 </div>
-</div>
-<div class="thirds">
-<h1 class="section-header">Waxing</h1>
-<div class="third block1of3">
+
+
+# Waxing
+
+<div class="third">
 ## Body
 
 * Full leg $40
@@ -170,24 +172,24 @@ Massage with Registered Massage Therapist: $85 (60 min), $120 (90 min), $160 (12
 * Half arms $20
 * Bikini $20+
 * Back $20+
-
 </div>
-<div class="third block2of3">
+
+<div class="third">
 ## Face
 
 * Eyebrow $13
 * Upper lip or Chin $9
-
 </div>
-<div class="third block3of3">
+
+<div class="third">
 ## Specials
 
 * Bridal package     $100
+</div>
 
-</div>
-</div>
-<div class="halves">
-<div class="half block1of2">
+<div class="clear"></div>
+
+<div class="half">
 ## Specials and Packages
 
 * Birthday Party
@@ -198,9 +200,9 @@ Massage with Registered Massage Therapist: $85 (60 min), $120 (90 min), $160 (12
 * Girls' Party
 * Bachelorette Party
 * Anniversary
-
 </div>
-<div class="half block2of2">
+
+<div class="half">
 ## Workshops
 
 * Aroma Workshop
@@ -211,11 +213,9 @@ Massage with Registered Massage Therapist: $85 (60 min), $120 (90 min), $160 (12
 * Microbiotic Workshop
 * Healthy Living Workshop/Cooking Class
 * Super Food Seminar
+</div>
 
-</div>
-</div>
-<div>
-<h1 class="section-header">Something extra-special coming up? <a href="mailto:info@nagomi.ca">Ask us about our make-up services</a>!</h1>
+
+# Something extra-special coming up? <a href="mailto:info@nagomi.ca">Ask us about our make-up services</a>!
 
 All services are by appointment only. Gifts certificates available. We now accept debit and credit.
-</div>

@@ -11,6 +11,7 @@ h1, h2 {
 }
 
 h1 {
+  clear: both;
   font-size: 18pt;
   font-weight: 300;
   color: #655649;
