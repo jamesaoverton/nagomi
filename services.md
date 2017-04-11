@@ -169,9 +169,7 @@ $500 includes consultation and touch-up one month after your session.
 # Waxing
 
 <div class="third">
-jkk:
-:qa
-i## Body
+## Body
 
 * Full leg $40
 * Half leg $25
