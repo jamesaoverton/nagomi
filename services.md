@@ -149,21 +149,29 @@ Massage with Registered Massage Therapist: $85 (60 min), $120 (90 min), $160 (12
 * Only removal $30
 </div>
 
-<div class="clear"></div>
+
+# Microblading
+
+This revolutionary service takes your eyebrows to the next level for up to 2 years! You get beautiful, natural looking brows with next to zero maintenance! Come and get a consultation on this amazing service today!
+
+$500 includes consultation and touch-up one month after your session.
+
 
 <div class="img half">
-![eyelashextensions](photos/eyelashextension.jpg)
+![eyelashes](photos/eyelashes1-300.jpg)
 </div>
 
 <div class="img half">
-![eyelashextensions](photos/eyelashextension1.jpg)
+![eyelashes](photos/eyelashes2-300.jpg)
 </div>
 
 
 # Waxing
 
 <div class="third">
-## Body
+jkk:
+:qa
+i## Body
 
 * Full leg $40
 * Half leg $25

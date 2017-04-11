@@ -4,24 +4,30 @@ title: Beauty Salon Toronto | Nagomi.ca
 ---
 
 <div class="half">
-### Our November facial special is on now! 
+### Now offering Microblading
 
-Our Deluxe Facial is 15% off!! and if you purchase our gift certificate for Deluxe Facial in November for the holidays you get 15% off as well!!
+This revolutionary service takes your eyebrows to the next level for up to 2 years! You get beautiful, natural looking brows with next to zero maintenance! Come and get a consultation on this amazing service today!
 
-Deluxe Facial. This particular treatment uses a special essence with concentrated Aloe powder, collagen, and hyaluronic acid, which is known to enhance and repair skin.
-Come get freshened up before you get busy for the holidays and get yourself ready for the party season!!
+Trish Lasola is Toronto's leading beauty technician, offering her clients top of the line service for Microblading, Lash Lifts, Brow Grooming and Tints.
 
-### Now offering Thai massage therapy and herb ball therapy With RMT
+With 8 years of experience as an esthetician, attention to detail, and a background in the arts, Trish provides the highest level of professionalism, utilizing the most innovative techniques in the industry, leaving you with results that will exceed your expectations.
 
-This type of massage has been around for more than two thousand years to promote physical and mental relaxation through the use of practitioner assisted Yoga positions.
+[See Trish on Instagram](https://www.instagram.com/oceanwave_eyelashperming/)
 
-The benefits of Thai massage therapy are:
+### May promotion
 
-- Pain Relief
-- Increased Flexibility
-- Relaxation
-- Improved Circulation
-- Overall Well-Being
+Our Deluxe Facial is 15% off!!
+
+Deluxe Facial. This particular treatment uses a special essence with concentrated Aloe powder, collagen, and hyaluronic acid, which is known to enhance and repair skin. Come get freshened up!!
+
+### Gift Certificates available for Mother's Day
+
+Show how much you care with the gift of relaxation. [Contact us to learn more!](mailto:info@nagomi.ca)
+
+### We accept debit and credit cards
+
+Pay with the convenience of debit and credit card.
+
 </div>
 
 
@@ -48,13 +54,15 @@ Join the conversation at Nagomi's Facebook page. There, you'll find information 
 This service is for those who are interested in acupuncture treatment but never done before, those who don't have insurance or those who want to get quick but concise treatment, THIS IS THE DAY!
 Please contact us if you have any questions or want to book with us!
 
-### Gift certificates now available
+### Mind and Body Maintainance Friday 
 
-Show how much you care with the gift of relaxation. [Contact us to learn more!](mailto:info@nagomi.ca)
+Our Holistic therapist offers Jikiden Reiki and Sound Healing with didgeridoo.
 
-### We accept debit and credit cards
+Reiki session ( $30) for 40mins-60mins
 
-Pay with the convenience of debit and credit card.
+Reiki with didgeridoo. ($40) for 40 mins-60mins
+
+We are certain that it will benefit you physically, mentally, emotionally and spiritually.
 </div>
 
 
