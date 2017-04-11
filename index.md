@@ -42,6 +42,7 @@ Pay with the convenience of debit and credit card.
 * [Eyelashes](services#eyelashes)
 * [Waxing](services#waxing)
 * [Nail](services#nail)
+* [Microblading](services#microblading)
 
 ### [![Facebook](assets/facebook.jpg) Visit our Facebook page](http://www.facebook.com/nagomibeautyroom)
 
