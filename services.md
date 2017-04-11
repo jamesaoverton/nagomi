@@ -222,6 +222,4 @@ $500 includes consultation and touch-up one month after your session.
 </div>
 
 
-# Something extra-special coming up? <a href="mailto:info@nagomi.ca">Ask us about our make-up services</a>!
-
-All services are by appointment only. Gifts certificates available. We now accept debit and credit.
+# All services are by appointment only
