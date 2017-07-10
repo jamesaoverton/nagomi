@@ -4,6 +4,20 @@ title: Beauty Salon Toronto | Nagomi.ca
 ---
 
 <div class="half">
+### Summer Schedule
+
+Because of summer holidays, not all of our services will be available in August. We encourage you to book your appointments in July, and apologize for any inconvenience.
+
+### July Promotion
+
+From July 1st to July 30th our Deluxe Facial treatment is 20% off!! This is one of the best deal we have ever had!!
+
+Deluxe Facial treatment uses a special essence with concentrated Aloe powder, collagen, and hyaluronic acid, which is known to enhance and repair skin. Protect your skin from the sun damage and have a happy summer for yourself and your skin!!
+
+From July 1st to July 30th we have great deal on eyelash extension service (Diva lash over 100 lashes)!!
+
+Diva lashes are normally $120, now on sale for just $95+tax! Don't miss this chance!!
+
 ### Now offering Microblading
 
 This revolutionary service takes your eyebrows to the next level for up to 2 years! You get beautiful, natural looking brows with next to zero maintenance! Come and get a consultation on this amazing service today!
@@ -13,16 +27,6 @@ Trish Lasola is Toronto's leading beauty technician, offering her clients top of
 With 8 years of experience as an esthetician, attention to detail, and a background in the arts, Trish provides the highest level of professionalism, utilizing the most innovative techniques in the industry, leaving you with results that will exceed your expectations.
 
 [See Trish on Instagram](https://www.instagram.com/oceanwave_eyelashperming/)
-
-### May promotion
-
-Our Deluxe Facial is 15% off!!
-
-Deluxe Facial. This particular treatment uses a special essence with concentrated Aloe powder, collagen, and hyaluronic acid, which is known to enhance and repair skin. Come get freshened up!!
-
-### Gift Certificates available for Mother's Day
-
-Show how much you care with the gift of relaxation. [Contact us to learn more!](mailto:info@nagomi.ca)
 
 ### We accept debit and credit cards
 
