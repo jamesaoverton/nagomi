@@ -41,39 +41,24 @@ Enjoy all the benefits of our standard facial with a little more extravagance. C
 </div>
 
 
-# Body
-
-<div class="third">
-## Swedish Massage
-
-* 60min, $60
-* 90min, $85
-</div>
-
-<div class="third">
-## Prenatal (after 20 weeks)
-
-* Prenatal Massage 45min $90
-</div>
-
-<div class="third">
-## Tuina Massage
-
-* 30 minutes $40
-* 60 minutes $75
-</div>
-
-
 # RMT
 
 We offer a unique blend of Massage and Manual Therapy including Swedish, Shiatsu and Thai massage.
 
-Massage with Registered Massage Therapist: $85 (60 min), $120 (90 min), $160 (120 min)
+<div class="half">
+- 60min, $85
+- 90min, $120
+- 120min, $160
+</div>
+
+<div class="half">
+- Prenatal Massage 45min $90
+</div>
 
 
 # Acupuncture & Herbal Medicine
 
-<div class="third">
+<div class="quarter">
 ## Acupuncture
 
 * Initial Consultation and Diagnosis	$40 / 45 ~ 60 min
@@ -83,7 +68,7 @@ Massage with Registered Massage Therapist: $85 (60 min), $120 (90 min), $160 (12
 
 </div>
 
-<div class="third">
+<div class="quarter">
 ## Cosmetic Acupuncture
 
 * Initial Consultation and Diagnosis	$40 / 30 ~ 45 min
@@ -93,13 +78,20 @@ Massage with Registered Massage Therapist: $85 (60 min), $120 (90 min), $160 (12
 
 </div>
 
-<div class="third">
+<div class="quarter">
 ## Chinese Herbal Medicine
 
 * Initial Consultation and Diagnosis	$40 / 45 ~ 60 min
 * Follow up Consultation		$10 / 15 min
 * Herbal Medicine Cost			$15 ~ 40 / week (varies by ingredients)
 
+</div>
+
+<div class="quarter">
+## Tuina Massage
+
+* 30 minutes $40
+* 60 minutes $75
 </div>
 
 <div class="clear"></div>
@@ -206,19 +198,6 @@ $500 includes consultation and touch-up one month after your session.
 * Girls' Party
 * Bachelorette Party
 * Anniversary
-</div>
-
-<div class="half">
-## Workshops
-
-* Aroma Workshop
-* Dietary Education Workshop with moms and kids
-* Skin Care and Makeup Seminar
-* Eco-Living Seminar
-* Chinese Medicine Workshop
-* Microbiotic Workshop
-* Healthy Living Workshop/Cooking Class
-* Super Food Seminar
 </div>
 
 
