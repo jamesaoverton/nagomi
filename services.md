@@ -64,7 +64,8 @@ We offer a unique blend of Massage and Manual Therapy including Swedish, Shiatsu
 * Initial Consultation and Diagnosis	$40 / 45 ~ 60 min
 * Acupuncture Treatment			$70 / 75 min
 * Quick Acu Thursday (11am – 4pm)	$40 / 45 ~ 60 min
-* Prenatal Acupuncture & Moxibustion (after 20 weeks)
+* Prenatal / Postnatal Acupuncture & Moxibustion (after 20 weeks for prenatal) $90 / 75mins
+* Fertility treatment Acupuncture & Herbal Medicine $90 / 75mins
 
 </div>
 
