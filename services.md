@@ -58,28 +58,24 @@ We offer a unique blend of Massage and Manual Therapy including Swedish, Shiatsu
 
 # Acupuncture & Herbal Medicine
 
-<div class="quarter">
+<div style="line-height: 150%; padding: 0% 2% 0% 2%">
 ## Acupuncture
 
 * Initial Consultation and Diagnosis	$40 / 45 ~ 60 min
 * Acupuncture Treatment			$70 / 75 min
 * Quick Acu Thursday (11am – 4pm)	$40 / 45 ~ 60 min
-* Prenatal / Postnatal Acupuncture & Moxibustion (after 20 weeks for prenatal) $90 / 75mins
-* Fertility treatment Acupuncture & Herbal Medicine $90 / 75mins
+* Prenatal / Postnatal Acupuncture & Moxibustion (after 20 weeks for prenatal) $90 / 75 mins
+* Fertility treatment Acupuncture & Herbal Medicine $90 / 75 mins
 
-</div>
-
-<div class="quarter">
 ## Cosmetic Acupuncture
 
 * Initial Consultation and Diagnosis	$40 / 30 ~ 45 min
 * Cosmetic Acupuncture Treatment	$100 / 75 min
 
 [Contact for details](mailto:info@nagomi.ca)
-
 </div>
 
-<div class="quarter">
+<div class="half">
 ## Chinese Herbal Medicine
 
 * Initial Consultation and Diagnosis	$40 / 45 ~ 60 min
@@ -88,7 +84,7 @@ We offer a unique blend of Massage and Manual Therapy including Swedish, Shiatsu
 
 </div>
 
-<div class="quarter">
+<div class="half">
 ## Tuina Massage
 
 * 30 minutes $40
@@ -149,6 +145,12 @@ This revolutionary service takes your eyebrows to the next level for up to 2 yea
 
 $500 includes consultation and touch-up one month after your session.
 
+[See Trish on Instagram](https://www.instagram.com/oceanwave_eyelashperming/)
+
+Trish Lasola is Toronto's leading beauty technician, offering her clients top of the line service for Microblading, Lash Lifts, Brow Grooming and Tints.
+
+With 8 years of experience as an esthetician, attention to detail, and a background in the arts, Trish provides the highest level of professionalism, utilizing the most innovative techniques in the industry, leaving you with results that will exceed your expectations.
+
 
 <div class="img half">
 ![eyelashes](photos/eyelashes1-300.jpg)
@@ -202,4 +204,6 @@ $500 includes consultation and touch-up one month after your session.
 </div>
 
 
-# All services are by appointment only
+# We are open by appointment only to ensure a personalized experience.
+
+Please note that we cannot answer calls during customer appointments so the best way to book with us is to send us an [email](mailto:info@nagomi.ca) or [text](tel:1-647-993-1130) us and we will reply  soon as we can.

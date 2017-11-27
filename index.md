@@ -4,15 +4,21 @@ title: Beauty Salon Toronto | Nagomi.ca
 ---
 
 <div class="half">
-### Now offering Microblading
+### Christmas Package Deal!
 
-This revolutionary service takes your eyebrows to the next level for up to 2 years! You get beautiful, natural looking brows with next to zero maintenance! Come and get a consultation on this amazing service today!
+* 5 Signature Facials get 25% off!
+* 10 Signature Facials get 35% off!
+* 5 Deluxe Facials get you 35% off!
 
-Trish Lasola is Toronto's leading beauty technician, offering her clients top of the line service for Microblading, Lash Lifts, Brow Grooming and Tints.
+Only valid until Christmas so contact us today!
 
-With 8 years of experience as an esthetician, attention to detail, and a background in the arts, Trish provides the highest level of professionalism, utilizing the most innovative techniques in the industry, leaving you with results that will exceed your expectations.
+### Gift Certificates Available!
 
-[See Trish on Instagram](https://www.instagram.com/oceanwave_eyelashperming/)
+[Contact us](mailto:info@nagomi.ca) for more details.
+
+### Book with Registered Massage Therapist and Acupuncturist
+
+RMT and R.a.c appointments for December are booking up fast so call us soon to book your spot and take advantage of your insurance.
 
 ### We accept debit and credit cards
 
@@ -43,15 +49,6 @@ Join the conversation at Nagomi's Facebook page. There, you'll find information 
 This service is for those who are interested in acupuncture treatment but never done before, those who don't have insurance or those who want to get quick but concise treatment, THIS IS THE DAY!
 Please contact us if you have any questions or want to book with us!
 
-### Mind and Body Maintainance Friday 
-
-Our Holistic therapist offers Jikiden Reiki and Sound Healing with didgeridoo.
-
-Reiki session ( $30) for 40mins-60mins
-
-Reiki with didgeridoo. ($40) for 40 mins-60mins
-
-We are certain that it will benefit you physically, mentally, emotionally and spiritually.
 </div>
 
 
