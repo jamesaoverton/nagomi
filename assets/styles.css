@@ -258,12 +258,17 @@ div.img {
   text-align: center;
 }
 
+.content-body > p {
+  width: 96%;
+  padding-left: 2%;
+  padding-right: 2%;
+  padding-top: 0%;
+}
 
 .full,
 .content-body > h1,
 .content-body > h2,
-.content-body > h3,
-.content-body > p {
+.content-body > h3 {
   clear: both;
   width: 96%;
   padding-left: 2%;

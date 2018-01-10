@@ -4,21 +4,24 @@ title: Beauty Salon Toronto | Nagomi.ca
 ---
 
 <div class="half">
-### Christmas Package Deal!
+## January Promotion
 
-* 5 Signature Facials get 25% off!
-* 10 Signature Facials get 35% off!
-* 5 Deluxe Facials get you 35% off!
+### Detox Facial Treatment $75 (75mins)
 
-Only valid until Christmas so contact us today!
+An intensive purifying and correcting treatment which reduces inflammation and detoxifies.  And the lymphatic massage will increase the circulation to rejuvenate your skin.
+Your skin will be smoothes and refined, inflammation reduced and hydrated.
+
+### Organic aloe vera lotion for HALF PRICE $70 ➡︎ $35
+
+The lotion which if one of our favourite of all our products is on sale for half price ($35) this month so you can maintain your skin hydrated at home.
+
+### We are open by appointment only to ensure a personalized experience
+
+Please note that we cannot answer calls during customer appointments so the best way to book with us is to send us an email or text us and we will reply soon as we can.
 
 ### Gift Certificates Available!
 
 [Contact us](mailto:info@nagomi.ca) for more details.
-
-### Book with Registered Massage Therapist and Acupuncturist
-
-RMT and R.a.c appointments for December are booking up fast so call us soon to book your spot and take advantage of your insurance.
 
 ### We accept debit and credit cards
 
@@ -41,6 +44,10 @@ Pay with the convenience of debit and credit card.
 ### [![Facebook](assets/facebook.jpg) Visit our Facebook page](http://www.facebook.com/nagomibeautyroom)
 
 Join the conversation at Nagomi's Facebook page. There, you'll find information about upcoming events, photos from sessions and classes, and all of the latest news. Have a look! [Nagomi Beauty Room](http://www.facebook.com/nagomibeautyroom)
+
+### Healthy Moms
+
+We are proud to be a participating business in this great resource for moms! <https://gohealthymoms.com>
 
 ### Quick Acu Thursday (11am – 4pm)
 
@@ -66,13 +73,13 @@ Our reasonable prices are inspired by you, hard working women who put themselves
 </div>
 
 <div class="quarter">
-## Events
+## Our Team
 
 ![Toronto beauty salon](photos/event5-small.jpg)
 
-From cooking classes to makeup tutorials, find out what exciting new events are coming up at Nagomi.
+Our expert team is dedicated to providing you with personalized service, to benefit both your body and your mind.
 
-[Find out more](events)
+[Find out more](team)
 </div>
 
 <div class="quarter">
@@ -86,11 +93,11 @@ Our products are derived from organic Aloe Vera and contain no preservatives, fr
 </div>
 
 <div class="quarter">
-## Take Aloe Home
+## Events
 
-![Toronto beauty salon](photos/takealoehome.jpg)
+![Toronto beauty salon](photos/makeup1.jpg)
 
-Enjoy the benefits of Aloe Vera treatments in the comfort of your home with these products.
+From cooking classes to makeup tutorials, find out what exciting new events are coming up at Nagomi.
 
-Coming Soon!
+[Find out more](events)
 </div>
