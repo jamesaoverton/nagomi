@@ -4,16 +4,20 @@ title: Beauty Salon Toronto | Nagomi.ca
 ---
 
 <div class="half">
-## January Promotion
 
-### Detox Facial Treatment $75 (75mins)
+## February Promotion #1
 
-An intensive purifying and correcting treatment which reduces inflammation and detoxifies.  And the lymphatic massage will increase the circulation to rejuvenate your skin.
-Your skin will be smoothes and refined, inflammation reduced and hydrated.
+Cosmetic acupuncture + Deluxe Facial treatment
 
-### Organic aloe vera lotion for HALF PRICE $70 ➡︎ $35
+$20 OFF consultations and 20% OFF Deluxe Facial treatments when you book both of these services together!
 
-The lotion which if one of our favourite of all our products is on sale for half price ($35) this month so you can maintain your skin hydrated at home.
+Cosmetic acupuncture helps improve blood flow, stimulates cell regeneration and encourages the production of healing collagen, the protein which the body uses to retain your skin’s youthful elasticity. It's all natural and a great anti-aging treatment!
+
+## February Promotion #2
+
+When you book a Thai massage with our RMT this month, you get an extra 15mins and a FREE herb ball therapy treatment! (Tuesday and Wednesday until 5:00)
+
+Herbal Compress is a traditional Thai treatment. The herb balls we use contain 12 kinds of dry herbs. As we steam them, they produce a healing aroma. The hot temperature increases energy flow, improves circulation, relaxes muscles and stimulates nerves. The aroma is excellent for your pituitary gland and digestive organs and is a great way to balance hormones naturally.
 
 ### We are open by appointment only to ensure a personalized experience
 
