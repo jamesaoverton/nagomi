@@ -5,19 +5,21 @@ title: Beauty Salon Toronto | Nagomi.ca
 
 <div class="half">
 
-## February Promotion #1
+### Price Change Update
 
-Cosmetic acupuncture + Deluxe Facial treatment
+To our valued Nagomi clients: we are making minor changes to some of our menu pricing. As of May 1st, the adjustment will take effect to the following services:
 
-$20 OFF consultations and 20% OFF Deluxe Facial treatments when you book both of these services together!
+- Acupuncture
+- Herbal Medicine
+- Eyelash Extensions
 
-Cosmetic acupuncture helps improve blood flow, stimulates cell regeneration and encourages the production of healing collagen, the protein which the body uses to retain your skin’s youthful elasticity. It's all natural and a great anti-aging treatment!
+We want to take this opportunity to thank you for your loyalty to Nagomi. We will continue to strive to provide the best service every day. Stay tuned for our new and upgraded menu.
 
-## February Promotion #2
+### April Promotions
 
-When you book a Thai massage with our RMT this month, you get an extra 15mins and a FREE herb ball therapy treatment! (Tuesday and Wednesday until 5:00)
+Our very popular Deluxe facial treatment is 15% OFF! This treatment involves using a one of a kind aloe enriched essence which combines 3 powerful elements together to hydrate and rejuvenate the skin.
 
-Herbal Compress is a traditional Thai treatment. The herb balls we use contain 12 kinds of dry herbs. As we steam them, they produce a healing aroma. The hot temperature increases energy flow, improves circulation, relaxes muscles and stimulates nerves. The aroma is excellent for your pituitary gland and digestive organs and is a great way to balance hormones naturally.
+We are also promoting "VERAJELL" which is 30% off. This essence to help you keep your skin hydrated and protected at home as well!!
 
 ### We are open by appointment only to ensure a personalized experience
 
