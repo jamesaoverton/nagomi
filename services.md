@@ -61,35 +61,46 @@ We offer a unique blend of Massage and Manual Therapy including Swedish, Shiatsu
 <div style="line-height: 150%; padding: 0% 2% 0% 2%">
 ## Acupuncture
 
-* Initial Consultation and Diagnosis	$40 / 45 ~ 60 min
-* Acupuncture Treatment			$70 / 75 min
-* Quick Acu Thursday (11am – 4pm)	$40 / 45 ~ 60 min
-* Prenatal / Postnatal Acupuncture & Moxibustion (after 20 weeks for prenatal) $90 / 75 mins
-* Fertility treatment Acupuncture & Herbal Medicine $90 / 75 mins
+* Initial Consultation and Diagnosis $40 / 30mins
+* Acupuncture Treatment $80 / 60mins-75mins
+* Paediatric Acupuncture  $50
+* Quick Acupuncture $50 +consultation $10
+* Prenatal / Postnatal Acupuncture & Moxibustion $90 / 75mins
+* Fertility treatment acupuncture $90 / 75mins 
 
 ## Cosmetic Acupuncture
 
-* Initial Consultation and Diagnosis	$40 / 30 ~ 45 min
-* Cosmetic Acupuncture Treatment	$100 / 75 min
+* Trial Session $77 / 40mins (NEW!!!) For someone want to try to see how it works!
+* Consultation $40
+* Facial Acupuncture $100 / 60mins
+* Beauty Acupuncture (Face + Body) $150 / 90 mins  (NEW!!!!!)
+* Luxury Package (NEW!!!!!) (Face + body + head acupuncture + facial treatment) $250  / 120mins 
 
-[Contact for details](mailto:info@nagomi.ca)
-</div>
+This cosmetic treatment is said to help make skin look younger, smoother, and all-around healthier NATURALLY.
 
-<div class="half">
-## Chinese Herbal Medicine
+On the face, the acupuncturist inserts tiny and painless needles (Thin as a hair). As these needles puncture the skin, they create wounds within its threshold, which are called positive microtraumas. 
 
-* Initial Consultation and Diagnosis	$40 / 45 ~ 60 min
-* Follow up Consultation		$10 / 15 min
-* Herbal Medicine Cost			$15 ~ 40 / week (varies by ingredients)
+When your body senses these wounds, it goes into repair mode.
+These punctures stimulate your lymphatic and circulatory system, which work together to deliver nutrients and oxygen to your skin cells, nourishing skin from the inside out. 
 
-</div>
+This helps even out your complexion and promote your skin’s glow. The positive microtraumas also stimulate the production of collagen. This helps improve elasticity, minimizing fine lines and wrinkles.
 
-<div class="half">
+The effects of Facial Acupuncture are cumulative and last up to 3-5 years after a course of 10 treatments, with maintenance.  We do have a great package plan for 6, 10, and 15 treatments.
+
+Please call or [email](mailto:info@nagomi.ca) for an appointment or if have any questions or concerns! 
+
+## Herbal Medicine
+
+* Initial Consultation and Diagnosis $80  / 45mins-60mins
+* Follow up consultation $20 / 30mins 
+* Herbal Medicine Cost $20-$40 / 2weeks (varies by ingredients)
+
+Herbal Medicine will be prescribed by our experienced RTCMP (Registered Traditional Chinese Medicine Practitioners)
+
 ## Tuina Massage
 
 * 30 minutes $40
 * 60 minutes $75
-</div>
 
 <div class="clear"></div>
 
