@@ -15,12 +15,6 @@ To our valued Nagomi clients: we are making minor changes to some of our menu pr
 
 We want to take this opportunity to thank you for your loyalty to Nagomi. We will continue to strive to provide the best service every day. Stay tuned for our new and upgraded menu.
 
-### April Promotions
-
-Our very popular Deluxe facial treatment is 15% OFF! This treatment involves using a one of a kind aloe enriched essence which combines 3 powerful elements together to hydrate and rejuvenate the skin.
-
-We are also promoting "VERAJELL" which is 30% off. This essence to help you keep your skin hydrated and protected at home as well!!
-
 ### We are open by appointment only to ensure a personalized experience
 
 Please note that we cannot answer calls during customer appointments so the best way to book with us is to send us an email or text us and we will reply soon as we can.
