@@ -32,6 +32,21 @@ She would love to discuss the treatment that works for you.
 
 <div class="clear"></div>
 
+## Teruki Matano (R.Ac / R.TCMP)
+
+<img src="photos/teruki.jpg" alt="Teruki Matano" style="float: left; padding-right: 2%"/>
+
+Teruki is a registered traditional Chinese medicine practitioner and acupuncturist (R.TCMP, R.Ac) under the College of Traditional Chinese Medicine of Ontario (TCMPAO). He is also a registered medical doctor in Japan. 
+
+Growing up in Japan, he always wondered about life, the mind, and health. He thought studying medicine would give him some answers. That's where his long journey began.
+
+He originally started his medical career as a physician in Kobe, Japan. Although he enjoyed practising in Kobe, he soon decided modern western medicine was not something he wanted to pursue. 
+After immigrating to Canada, he studied traditional Chinese medicine and eventually became a practitioner. 
+
+At Nagomi, his focus is to bring the ultimate health and wellness to his patients through Traditional Chinese Medicine (Acupuncture, Herbal Medicine etc.). He can a wide variety of ailments from general malaise to specific illnesses. His experience as a medical doctor in Japan as well as a Chinese medicinal practitioner helps to understand the patient's condition better. His attention to detail and dedication to his work make him an asset to us. He’s very excited to be joining the team here at Nagomi and can't wait to make people's lives better one patient at a time.
+
+<div class="clear"></div>
+
 ## Megumi Overton (Owner/Esthetician)
 
 <img src="photos/megumi.jpg" alt="Megumi Overton" style="float: left; padding-right: 2%"/>
