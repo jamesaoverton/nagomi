@@ -51,10 +51,9 @@ We are proud to be a participating business in this great resource for moms! <ht
 
 ### Quick Acu Thursday (11am – 4pm)
 
-**$40 (45 ~ 60 min)**
+**$50 (45 ~ 60 min) plus $10 for consultation**
 
-This service is for those who are interested in acupuncture treatment but never done before, those who don't have insurance or those who want to get quick but concise treatment, THIS IS THE DAY!
-Please contact us if you have any questions or want to book with us!
+This service is for those who are interested in acupuncture treatment but never done before, those who don’t have insurance or those who want to get quick but concise treatment, THIS IS THE DAY! Please contact us if you have any questions or want to book with us!
 
 </div>
 
