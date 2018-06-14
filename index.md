@@ -5,6 +5,26 @@ title: Beauty Salon Toronto | Nagomi.ca
 
 <div class="half">
 
+### Great news for people who are interested in Cosmetic acupuncture!
+
+We have decided introduce a Trial session for our most recent popular service, [Cosmetic (Beauty) Acupuncture](services#acupuncture--herbal-medicine) treatment!
+
+Trial Session $77 (40min)
+
+This service is excellent for someone who's interested in seeing how Cosmetic Acupuncture works without having to pay for a full session. It includes a consultation and preliminary focused treatment. 
+
+We also do customized [Chinese Herbal medicine](services#acupuncture--herbal-medicine) for a wide variety of concerns and ailments so you can get a targeted treatment just for what you need. Try it for general well being or for something specific that you’d like to focus on. 
+
+
+### Summer promotion!
+
+Starting July 1st.  We will have a promotion on our Eyelash extension service!
+
+15% OFF on our popular service Glamorous lash ($85)
+
+This promotion ends the end of August.
+
+
 ### Price Change Update
 
 To our valued Nagomi clients: we are making minor changes to some of our menu pricing. As of May 1st, the adjustment will take effect to the following services:
@@ -15,18 +35,6 @@ To our valued Nagomi clients: we are making minor changes to some of our menu pr
 
 We want to take this opportunity to thank you for your loyalty to Nagomi. We will continue to strive to provide the best service every day. Stay tuned for our new and upgraded menu.
 
-### We are open by appointment only to ensure a personalized experience
-
-Please note that we cannot answer calls during customer appointments so the best way to book with us is to send us an email or text us and we will reply soon as we can.
-
-### Gift Certificates Available!
-
-[Contact us](mailto:info@nagomi.ca) for more details.
-
-### We accept debit and credit cards
-
-Pay with the convenience of debit and credit card.
-
 </div>
 
 
@@ -35,7 +43,7 @@ Pay with the convenience of debit and credit card.
 
 * [Facial Treatment](services#facial)
 * [RMT](services#rmt)
-* [Acupuncture & Herbal Medicine](services#acupuncture-herbal-medicine)
+* [Acupuncture & Herbal Medicine](services#acupuncture--herbal-medicine)
 * [Eyelashes](services#eyelashes)
 * [Waxing](services#waxing)
 * [Nail](services#nail)
@@ -54,6 +62,18 @@ We are proud to be a participating business in this great resource for moms! <ht
 **$50 (45 ~ 60 min) plus $10 for consultation**
 
 This service is for those who are interested in acupuncture treatment but never done before, those who don’t have insurance or those who want to get quick but concise treatment, THIS IS THE DAY! Please contact us if you have any questions or want to book with us!
+
+### We are open by appointment only to ensure a personalized experience
+
+Please note that we cannot answer calls during customer appointments so the best way to book with us is to send us an email or text us and we will reply soon as we can.
+
+### Gift Certificates Available!
+
+[Contact us](mailto:info@nagomi.ca) for more details.
+
+### We accept debit and credit cards
+
+Pay with the convenience of debit and credit card.
 
 </div>
 
