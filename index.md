@@ -4,6 +4,17 @@ title: Beauty Salon Toronto | Nagomi.ca
 ---
 
 <div class="half">
+![eyelash lifting](photos/eyelash-lift-400.jpg)
+
+### Now offering Eyelash lift and tint services!
+
+Lash lifting and tinging is one of the newest trends in the beauty industry.  
+
+It is a semi permanent treatment which curls and tints your natural eyelashes.
+
+With lifted lashes, they look longer and fuller. Tinting will enhance the defining effect!!
+
+July and August promotion $30% OFF!!!!
 
 ### Great news for people who are interested in Cosmetic acupuncture!
 
@@ -15,26 +26,6 @@ This service is excellent for someone who's interested in seeing how Cosmetic Ac
 
 We also do customized [Chinese Herbal medicine](services#acupuncture--herbal-medicine) for a wide variety of concerns and ailments so you can get a targeted treatment just for what you need. Try it for general well being or for something specific that you’d like to focus on. 
 
-
-### Summer promotion!
-
-Starting July 1st.  We will have a promotion on our Eyelash extension service!
-
-15% OFF on our popular service Glamorous lash ($85)
-
-This promotion ends the end of August.
-
-
-### Price Change Update
-
-To our valued Nagomi clients: we are making minor changes to some of our menu pricing. As of May 1st, the adjustment will take effect to the following services:
-
-- Acupuncture
-- Herbal Medicine
-- Eyelash Extensions
-
-We want to take this opportunity to thank you for your loyalty to Nagomi. We will continue to strive to provide the best service every day. Stay tuned for our new and upgraded menu.
-
 </div>
 
 
@@ -43,11 +34,11 @@ We want to take this opportunity to thank you for your loyalty to Nagomi. We wil
 
 * [Facial Treatment](services#facial)
 * [RMT](services#rmt)
-* [Acupuncture & Herbal Medicine](services#acupuncture--herbal-medicine)
+* [Acupuncture & Herbal Medicine & Cupping](services#acupuncture--herbal-medicine)
 * [Eyelashes](services#eyelashes)
+* [Eyelash Lift and Tint](services#eyelash-lift-and-tint) [NEW!!!]
 * [Waxing](services#waxing)
 * [Nail](services#nail)
-* [Microblading](services#microblading)
 
 ### [![Facebook](assets/facebook.jpg) Visit our Facebook page](http://www.facebook.com/nagomibeautyroom)
 
@@ -56,12 +47,6 @@ Join the conversation at Nagomi's Facebook page. There, you'll find information 
 ### Healthy Moms
 
 We are proud to be a participating business in this great resource for moms! <https://gohealthymoms.com>
-
-### Quick Acu Thursday (11am – 4pm)
-
-**$50 (45 ~ 60 min) plus $10 for consultation**
-
-This service is for those who are interested in acupuncture treatment but never done before, those who don’t have insurance or those who want to get quick but concise treatment, THIS IS THE DAY! Please contact us if you have any questions or want to book with us!
 
 ### We are open by appointment only to ensure a personalized experience
 
@@ -102,7 +87,7 @@ Our expert team is dedicated to providing you with personalized service, to bene
 </div>
 
 <div class="quarter">
-## About
+## Product
 
 ![Toronto beauty salon](photos/whatweuse.jpg)
 
@@ -116,7 +101,7 @@ Our products are derived from organic Aloe Vera and contain no preservatives, fr
 
 ![Toronto beauty salon](photos/makeup1.jpg)
 
-From cooking classes to makeup tutorials, find out what exciting new events are coming up at Nagomi.
+Variety of health, wellness and natural beauty related workshop and classes with great specialists! Find out what exciting new events are coming up Nagomi! Next class? Faceyoga!!
 
 [Find out more](events)
 </div>

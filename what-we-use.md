@@ -7,6 +7,21 @@ title: What We Use | Nagomi.ca
 ## What We Use
 
 Our products are specially imported from Japan and Nagomi is proud to be the exclusive Canadian distributer. Our products are derived from organic Aloe vera and contain no preservatives, fragrances, alcohol, or artificial colours. These products are allergy tested and suitable for all skin types.
+
+Contains 2 unique and original elements:
+
+### AloenRich®
+
+*Extracts of the Aloe vera leaf, soybean sprout, chamomile flower, and hydrolyzed silk.* Organic Aloe essence delivers full vitality deep to your skin. Three carefully selected natural oils supplement Aloe Vera for a more shining result.
+
+### Princess Care
+
+*Geranium Rovertianum extract.* The extract oil from Geranium Robertianum is especially unique. In combination with AloenRich®, it restores the skin damaged by light and dryness for a youthful and brilliant face. Specially made for Anti-light-aging care.
+
+* No preservatives (paraffin)
+* alcohol free
+* fragrance free
+* mineral oil free<Paste>
 </div>
 
 <div class="half">

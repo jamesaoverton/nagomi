@@ -18,8 +18,6 @@ Our reasonable prices are inspired by you, hard working women who put themselves
 40min, $40
 
 A treatment for people on the go that doesn’t skimp on luxury. This facial covers all the essentials in one concise appointment and includes a customized skincare consultation, facial massage, cleansing, exfoliation, masque and moisturizing treatment.
-
-**Simplicity Facial + Body, 90min, $95**
 </div>
 
 <div class="third">
@@ -28,8 +26,6 @@ A treatment for people on the go that doesn’t skimp on luxury. This facial cov
 75min, $60
 
 Lose yourself in our signature treatment, a restorative Aloe Vera masque designed for enhanced exfoliation and luxurious moisturizing. This treatment includes an in-depth skincare consultation, extended facial massage and deep pore cleansing.
-
-**Signature Facial + Body, 120min, $110**
 </div>
 
 <div class="third">
@@ -40,6 +36,32 @@ Lose yourself in our signature treatment, a restorative Aloe Vera masque designe
 Enjoy all the benefits of our standard facial with a little more extravagance. Combine our restorative masque treatment and cleansing with the added bonus of deep scalp, shoulder and décolletage massage.
 </div>
 
+## Facial and Body Packages
+
+<div class="third">
+**Simplicity Facial + Body, 90min, $95**
+</div>
+
+<div class="third">
+**Signature Facial + Body, 120min, $110**
+</div>
+
+## The Facial Massage
+
+This special massage stimulates the lymph glands in the face, removing toxins and excess fluids.
+Removing these toxins gives you healthy, glowing skin.  This massage also helps to replenish moisture and remove the top layer of dead skin cells, which will help to even out skin tone.
+
+Another benefit of this facial massage is it stimulates collagen production which fills in wrinkles and smooths out the face.
+
+Also, bad circulation makes your face seem puffy and pale.  Massaging around your mouth, eyes and eyebrows will increase the circulation and take away puffiness to brighten your skin.
+
+Lastly, this facial massage will help you relax, de-stress and eliminate headaches by focusing on pressure points.
+
+Overall, it reduces wrinkles, lifts the face, prevents and improves sagging skin, reduces pore size and will get rid of puffy eyes and under-eye bags.
+
+## Head Massage & Eyecare
+
+20 minutes, $25
 
 # RMT
 
@@ -63,10 +85,12 @@ We offer a unique blend of Massage and Manual Therapy including Swedish, Shiatsu
 
 * Initial Consultation and Diagnosis $40 / 30mins
 * Acupuncture Treatment $80 / 60mins-75mins
-* Paediatric Acupuncture  $50
 * Quick Acupuncture $50 +consultation $10
+
+  This service is for those who are interested in acupuncture treatment but never done before, those who don’t have insurance or those who want to get quick but concise treatment, THIS IS THE DAY! Please contact us if you have any questions or want to book with us!
 * Prenatal / Postnatal Acupuncture & Moxibustion $90 / 75mins
 * Fertility treatment acupuncture $90 / 75mins 
+* Paediatric Acupuncture  $50
 
 ## Cosmetic Acupuncture
 
@@ -97,10 +121,11 @@ Please call or [email](mailto:info@nagomi.ca) for an appointment or if have any 
 
 Herbal Medicine will be prescribed by our experienced RTCMP (Registered Traditional Chinese Medicine Practitioners)
 
-## Tuina Massage
+## Tuina Massage & Cupping
 
 * 30 minutes $40
 * 60 minutes $75
+* Cupping, 30 minutes, $30
 
 <div class="clear"></div>
 
@@ -150,26 +175,22 @@ Herbal Medicine will be prescribed by our experienced RTCMP (Registered Traditio
 </div>
 
 
-# Microblading
+## Eyelash Lift and Tint
 
-This revolutionary service takes your eyebrows to the next level for up to 2 years! You get beautiful, natural looking brows with next to zero maintenance! Come and get a consultation on this amazing service today!
+Lash lifting and tinging is one of the newest trends in the beauty industry.  
 
-$500 includes consultation and touch-up one month after your session.
+It is a semi permanent treatment which curls and tints your natural eyelashes.
 
-[See Trish on Instagram](https://www.instagram.com/oceanwave_eyelashperming/)
+With lifted lashes, they look longer and fuller. Tinting will enhance the defining effect!!
 
-Trish Lasola is Toronto's leading beauty technician, offering her clients top of the line service for Microblading, Lash Lifts, Brow Grooming and Tints.
+* Eyelash Lift $70
+* Eyelash Tint $10
 
-With 8 years of experience as an esthetician, attention to detail, and a background in the arts, Trish provides the highest level of professionalism, utilizing the most innovative techniques in the industry, leaving you with results that will exceed your expectations.
 
-
-<div class="img half">
-![eyelashes](photos/eyelashes1-300.jpg)
+<div class="img">
+![eyelash lift and tint](photos/eyelash-lift-and-tint.jpg)
 </div>
 
-<div class="img half">
-![eyelashes](photos/eyelashes2-300.jpg)
-</div>
 
 
 # Waxing
