@@ -4,17 +4,11 @@ title: Beauty Salon Toronto | Nagomi.ca
 ---
 
 <div class="half">
-![eyelash lifting](photos/eyelash-lift-400.jpg)
+### Gift certificates available!!
 
-### Now offering Eyelash lift and tint services!
+Treat your love ones and yourself as a holiday gift!! Packages available with a great deal!
 
-Lash lifting and tinging is one of the newest trends in the beauty industry.  
-
-It is a semi permanent treatment which curls and tints your natural eyelashes.
-
-With lifted lashes, they look longer and fuller. Tinting will enhance the defining effect!!
-
-July and August promotion $30% OFF!!!!
+[Contact us](mailto:info@nagomi.ca) for more details.
 
 ### Great news for people who are interested in Cosmetic acupuncture!
 
@@ -38,7 +32,6 @@ We also do customized [Chinese Herbal medicine](services#acupuncture--herbal-med
 * [Eyelashes](services#eyelashes)
 * [Eyelash Lift and Tint](services#eyelash-lift-and-tint) [NEW!!!]
 * [Waxing](services#waxing)
-* [Nail](services#nail)
 
 ### [![Facebook](assets/facebook.jpg) Visit our Facebook page](http://www.facebook.com/nagomibeautyroom)
 
@@ -51,10 +44,6 @@ We are proud to be a participating business in this great resource for moms! <ht
 ### We are open by appointment only to ensure a personalized experience
 
 Please note that we cannot answer calls during customer appointments so the best way to book with us is to send us an email or text us and we will reply soon as we can.
-
-### Gift Certificates Available!
-
-[Contact us](mailto:info@nagomi.ca) for more details.
 
 ### We accept debit and credit cards
 

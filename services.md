@@ -134,26 +134,6 @@ Herbal Medicine will be prescribed by our experienced RTCMP (Registered Traditio
 </div>
 
 
-# Nail
-
-<div class="half">
-## Nail Services
-
-* Spa Manicure $25
-* French $5+
-* Kids' Nail (with sticker) $10
-</div>
-
-<div class="half">
-## Gel Nail Services
-
-* Simple (one colour, French) $50
-* Design (art, stones) $50+
-* Full Design $80+
-* Removal $30
-</div>
-
-
 # Eyelashes
 
 <div class="half">
