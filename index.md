@@ -4,21 +4,29 @@ title: Beauty Salon Toronto | Nagomi.ca
 ---
 
 <div class="half">
-### Gift certificates available!!
+### Important Announcement
 
-Treat your love ones and yourself as a holiday gift!! Packages available with a great deal!
+Nagomi is TEMPORARY CLOSING until April 1st due to COVID-19.
+
+Our priority at Nagomi Beauty Room has always been our customer's safety and well-being. 
+
+Based on the current situation involving the COVID-19 Pandemic and the recommendations from Public Health regarding social distancing, as well as further recommendations from The College of Traditional Chinese Medicine Practitioners and Acupuncturists of Ontario, and The College of Massage Therapists of Ontario, we will be closed effective immediately and will remain closed until April 1st. This timeframe may change depending on further recommendations from Toronto Public Health. 
+
+We thank you for your support and your understanding. We look forward to seeing you all in good health again soon. 
+
+Sincerely, 
+
+Megumi Overton<br/>
+Yuki Minesaki (RTCMP, Rac)<br/>
+Atsuko Kakutani (RMT)
+
+### Gift certificates available
+
+Please consider purchasing our gift certificates for your future use, or for a deserving person who is working hard through this difficult time. 
+
+Thank you very much for your support.
 
 [Contact us](mailto:info@nagomi.ca) for more details.
-
-### Great news for people who are interested in Cosmetic acupuncture!
-
-We have decided introduce a Trial session for our most recent popular service, [Cosmetic (Beauty) Acupuncture](services#acupuncture--herbal-medicine) treatment!
-
-Trial Session $77 (40min)
-
-This service is excellent for someone who's interested in seeing how Cosmetic Acupuncture works without having to pay for a full session. It includes a consultation and preliminary focused treatment. 
-
-We also do customized [Chinese Herbal medicine](services#acupuncture--herbal-medicine) for a wide variety of concerns and ailments so you can get a targeted treatment just for what you need. Try it for general well being or for something specific that you’d like to focus on. 
 
 </div>
 
