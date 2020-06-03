@@ -3,22 +3,18 @@ layout: default
 title: Beauty Salon Toronto | Nagomi.ca
 ---
 
+<div class="full">
+![Reopening](assets/reopening.jpg)
+</div>
+
 <div class="half">
-### Important Announcement
+### We are open by appointment only to ensure a personalized experience
 
-Nagomi is TEMPORARY CLOSING until April 1st due to COVID-19.
+Please note that we cannot answer calls during customer appointments so the best way to book with us is to send us an email or text us and we will reply soon as we can.
 
-Our priority at Nagomi Beauty Room has always been our customer's safety and well-being. 
+### We accept debit and credit cards
 
-Based on the current situation involving the COVID-19 Pandemic and the recommendations from Public Health regarding social distancing, as well as further recommendations from The College of Traditional Chinese Medicine Practitioners and Acupuncturists of Ontario, and The College of Massage Therapists of Ontario, we will be closed effective immediately and will remain closed until April 1st. This timeframe may change depending on further recommendations from Toronto Public Health. 
-
-We thank you for your support and your understanding. We look forward to seeing you all in good health again soon. 
-
-Sincerely, 
-
-Megumi Overton<br/>
-Yuki Minesaki (RTCMP, Rac)<br/>
-Atsuko Kakutani (RMT)
+Pay with the convenience of debit and credit card.
 
 ### Gift certificates available
 
@@ -48,14 +44,6 @@ Join the conversation at Nagomi's Facebook page. There, you'll find information 
 ### Healthy Moms
 
 We are proud to be a participating business in this great resource for moms! <https://gohealthymoms.com>
-
-### We are open by appointment only to ensure a personalized experience
-
-Please note that we cannot answer calls during customer appointments so the best way to book with us is to send us an email or text us and we will reply soon as we can.
-
-### We accept debit and credit cards
-
-Pay with the convenience of debit and credit card.
 
 </div>
 
