@@ -4,7 +4,8 @@ title: Beauty Salon Toronto | Nagomi.ca
 ---
 
 <div class="full">
-![Reopening](assets/reopening.jpg)
+![Reopening](assets/reopening-1.jpg)
+![Reopening Policies](assets/reopening-2.jpg)
 </div>
 
 <div class="half">
