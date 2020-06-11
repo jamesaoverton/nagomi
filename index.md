@@ -83,11 +83,9 @@ Our products are derived from organic Aloe Vera and contain no preservatives, fr
 </div>
 
 <div class="quarter">
-## Events
+## New Policies and Procedures as we Reopen
 
-![Toronto beauty salon](photos/makeup1.jpg)
-
-Variety of health, wellness and natural beauty related workshop and classes with great specialists! Find out what exciting new events are coming up Nagomi! Next class? Faceyoga!!
+We are following all the recommendations from the professional regulatory and Ontario Public Health, and have made changes in order to safely provide our services.
 
 [Find out more](events)
 </div>
