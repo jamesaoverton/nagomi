@@ -15,7 +15,7 @@ Our reasonable prices are inspired by you, hard working women who put themselves
 <div class="third">
 ## Simplicity Facial
 
-40min, $40
+40min, $50
 
 A treatment for people on the go that doesn’t skimp on luxury. This facial covers all the essentials in one concise appointment and includes a customized skincare consultation, facial massage, cleansing, exfoliation, masque and moisturizing treatment.
 </div>
@@ -23,7 +23,7 @@ A treatment for people on the go that doesn’t skimp on luxury. This facial cov
 <div class="third">
 ## Signature Facial
 
-75min, $60
+75min, $70
 
 Lose yourself in our signature treatment, a restorative Aloe Vera masque designed for enhanced exfoliation and luxurious moisturizing. This treatment includes an in-depth skincare consultation, extended facial massage and deep pore cleansing.
 </div>
@@ -31,7 +31,7 @@ Lose yourself in our signature treatment, a restorative Aloe Vera masque designe
 <div class="third">
 ## Deluxe Facial
 
-90min, $85
+90min, $95
 
 Enjoy all the benefits of our standard facial with a little more extravagance. Combine our restorative masque treatment and cleansing with the added bonus of deep scalp, shoulder and décolletage massage.
 </div>
@@ -39,11 +39,11 @@ Enjoy all the benefits of our standard facial with a little more extravagance. C
 ## Facial and Body Packages
 
 <div class="third">
-**Simplicity Facial + Body, 90min, $95**
+**Simplicity Facial + Body, 90min, $105**
 </div>
 
 <div class="third">
-**Signature Facial + Body, 120min, $110**
+**Signature Facial + Body, 120min, $120**
 </div>
 
 ## The Facial Massage
@@ -61,16 +61,16 @@ Overall, it reduces wrinkles, lifts the face, prevents and improves sagging skin
 
 ## Head Massage & Eyecare
 
-20 minutes, $25
+20 minutes, $30
 
 # RMT
 
 We offer a unique blend of Massage and Manual Therapy including Swedish, Shiatsu and Thai massage.
 
 <div class="half">
-- 60min, $85
-- 90min, $120
-- 120min, $160
+- 60min, $90
+- 90min, $125
+- 120min, $170
 </div>
 
 <div class="half">
@@ -84,21 +84,23 @@ We offer a unique blend of Massage and Manual Therapy including Swedish, Shiatsu
 ## Acupuncture
 
 * Initial Consultation and Diagnosis $40 / 30mins
-* Acupuncture Treatment $80 / 60mins-75mins
-* Quick Acupuncture $50 +consultation $10
+* Acupuncture Treatment $90 / 60mins-75mins
+* Quick Acupuncture $60 + Quick consultation $10
 
-  This service is for those who are interested in acupuncture treatment but never done before, those who don’t have insurance or those who want to get quick but concise treatment, THIS IS THE DAY! Please contact us if you have any questions or want to book with us!
+This service is for those who are interested in acupuncture treatment but never done before, those who don’t have insurance or those who want to get quick but concise treatment, THIS IS THE DAY! Please contact us if you have any questions or want to book with us!
+
 * Prenatal / Postnatal Acupuncture & Moxibustion $90 / 75mins
-* Fertility treatment acupuncture $90 / 75mins 
-* Paediatric Acupuncture  $50
+* Fertility treatment acupuncture
+    * First visit with consultation $140
+    * Return visit $90 / 75mins 
+* Paediatric Acupuncture  $25-50
 
 ## Cosmetic Acupuncture
 
-* Trial Session $77 / 40mins (NEW!!!) For someone want to try to see how it works!
 * Consultation $40
 * Facial Acupuncture $100 / 60mins
-* Beauty Acupuncture (Face + Body) $150 / 90 mins  (NEW!!!!!)
-* Luxury Package (NEW!!!!!) (Face + body + head acupuncture + facial treatment) $250  / 120mins 
+* Beauty Acupuncture (Face + Body) $150 / 90 mins
+* Luxury Package (Face + body + head acupuncture + facial treatment) $250  / 120mins 
 
 This cosmetic treatment is said to help make skin look younger, smoother, and all-around healthier NATURALLY.
 
@@ -115,16 +117,16 @@ Please call or [email](mailto:info@nagomi.ca) for an appointment or if have any 
 
 ## Herbal Medicine
 
-* Initial Consultation and Diagnosis $80  / 45mins-60mins
-* Follow up consultation $20 / 30mins 
+* Initial Consultation and Diagnosis $90  / 45mins-60mins
+* Follow up consultation $25 / 30mins 
 * Herbal Medicine Cost $20-$40 / 2weeks (varies by ingredients)
 
 Herbal Medicine will be prescribed by our experienced RTCMP (Registered Traditional Chinese Medicine Practitioners)
 
 ## Tuina Massage & Cupping
 
-* 30 minutes $40
-* 60 minutes $75
+* 30 minutes $45
+* 60 minutes $80
 * Cupping, 30 minutes, $30
 
 <div class="clear"></div>
@@ -139,9 +141,9 @@ Herbal Medicine will be prescribed by our experienced RTCMP (Registered Traditio
 <div class="half">
 ## Eyelash Extensions
 
-* Natural (60~80 Lashes) $65
-* Glamorous (80~100 Lashes) $85
-* Diva (over 100 Lashes) $120
+* Natural (60~80 Lashes) $70
+* Glamorous (80~100 Lashes) $90
+* Diva (over 100 Lashes) $130
 </div>
 
 <div class="half">

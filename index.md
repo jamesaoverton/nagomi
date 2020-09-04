@@ -4,8 +4,8 @@ title: Beauty Salon Toronto | Nagomi.ca
 ---
 
 <div class="full">
-![Reopening](assets/reopening-1.jpg)
-![Reopening Policies](assets/reopening-2.jpg)
+  <img src="assets/reopening-3.jpg" style="max-width: 100%"/>
+  <img src="assets/reopening-4.jpg" style="max-width: 100%"/>
 </div>
 
 <div class="half">
@@ -35,7 +35,7 @@ Thank you very much for your support.
 * [RMT](services#rmt)
 * [Acupuncture & Herbal Medicine & Cupping](services#acupuncture--herbal-medicine)
 * [Eyelashes](services#eyelashes)
-* [Eyelash Lift and Tint](services#eyelash-lift-and-tint) [NEW!!!]
+* [Eyelash Lift and Tint](services#eyelash-lift-and-tint)
 * [Waxing](services#waxing)
 
 ### [![Facebook](assets/facebook.jpg) Visit our Facebook page](http://www.facebook.com/nagomibeautyroom)
